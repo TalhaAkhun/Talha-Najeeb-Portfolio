@@ -116,7 +116,7 @@ My Portfolio is a webpage made with `Hyper Text Markup Language`, `Cascading Sty
 <!-- > Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com) -->
-https://my-portfolio-eta-eight-53.vercel.app/
+Live demo will be added later
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -189,11 +189,11 @@ sh
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 *AbuTalha*
+👤 *Talha*
 
-- GitHub: [@AbuTalha3](https://github.com/AbuTalha3)
+- GitHub: [@Talha](https://github.com/TalhaAkhun/Talha-Najeeb-Portfolio.git)
 <!-- - Twitter: [@twitterhandle](https://twitter.com/twitterhandle) -->
-- LinkedIn: [AbuTalha](https://www.linkedin.com/in/abu-talha-8203b252/)
+- LinkedIn: [@Talha](https://www.linkedin.com/in/talha-akhun3)
 
 <!-- FUTURE FEATURES -->
 
